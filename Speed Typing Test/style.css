@@ -1,0 +1,49 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg-container {
+    background-image: linear-gradient(to right, #f2ebfe, #f3eaff, #dac0ff, #690cb0);
+    padding: 30px;
+
+}
+
+.heading {
+    color: #690cb0;
+    font-family: "Roboto";
+    font-weight: bold;
+
+}
+
+.title {
+    color: #3e4c59;
+    font-family: "Roboto";
+}
+
+.image {
+    height: 60px;
+    width: 60px;
+}
+
+.card {
+    border-radius: 15px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #9aa5b1;
+    background-color: #f3eaff;
+    padding: 10px;
+    margin-top: 20px;
+}
+
+.custom-button-submit {
+    background-color: #690cb0;
+}
+
+.custom-button-reset {
+    background-color: #ffffff;
+    color: #323f4b;
+    font-weight: bold;
+}
+
+.seconds {
+    font-size: 35px;
+    color: #323f4b;
+}
